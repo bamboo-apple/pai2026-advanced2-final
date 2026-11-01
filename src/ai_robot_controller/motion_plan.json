@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "type": "forward",
+      "speed": 0.5,
+      "duration": 8
+    },
+    {
+      "type": "turn",
+      "angle_deg": 90,
+      "duration": 4
+    },
+    {
+      "type": "forward",
+      "speed": 0.5,
+      "duration": 8
+    },
+    {
+      "type": "turn",
+      "angle_deg": 90,
+      "duration": 4
+    },
+    {
+      "type": "forward",
+      "speed": 0.5,
+      "duration": 8
+    },
+    {
+      "type": "turn",
+      "angle_deg": 90,
+      "duration": 4
+    },
+    {
+      "type": "forward",
+      "speed": 0.5,
+      "duration": 8
+    },
+    {
+      "type": "turn",
+      "angle_deg": 90,
+      "duration": 4
+    },
+    {
+      "type": "stop",
+      "duration": 1
+    }
+  ]
+}
